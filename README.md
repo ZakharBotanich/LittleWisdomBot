@@ -2,5 +2,5 @@
 1) Создать файл mytoken.py с токеном бота
 2) Выполнить команду
 ```
- sudo docker-compose up
+ sudo docker compose up
 ```
